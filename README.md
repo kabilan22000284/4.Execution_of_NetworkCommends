@@ -1,4 +1,6 @@
 # EXP-4.Execution_of_NetworkCommands
+## NAME: KABILAN V
+## REGISTER NO: 212222100018
 ## AIM :
 Use of Network commands in Real Time environment
 ## Software :
